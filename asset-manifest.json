@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jammmingg/static/css/main.2a75a6cd.chunk.css",
+    "main.js": "/Jammmingg/static/js/main.c6d77755.chunk.js",
+    "main.js.map": "/Jammmingg/static/js/main.c6d77755.chunk.js.map",
+    "runtime-main.js": "/Jammmingg/static/js/runtime-main.67a94194.js",
+    "runtime-main.js.map": "/Jammmingg/static/js/runtime-main.67a94194.js.map",
+    "static/js/2.98ae5203.chunk.js": "/Jammmingg/static/js/2.98ae5203.chunk.js",
+    "static/js/2.98ae5203.chunk.js.map": "/Jammmingg/static/js/2.98ae5203.chunk.js.map",
+    "static/js/3.ec8812da.chunk.js": "/Jammmingg/static/js/3.ec8812da.chunk.js",
+    "static/js/3.ec8812da.chunk.js.map": "/Jammmingg/static/js/3.ec8812da.chunk.js.map",
+    "index.html": "/Jammmingg/index.html",
+    "static/css/main.2a75a6cd.chunk.css.map": "/Jammmingg/static/css/main.2a75a6cd.chunk.css.map",
+    "static/js/2.98ae5203.chunk.js.LICENSE.txt": "/Jammmingg/static/js/2.98ae5203.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67a94194.js",
+    "static/js/2.98ae5203.chunk.js",
+    "static/css/main.2a75a6cd.chunk.css",
+    "static/js/main.c6d77755.chunk.js"
+  ]
+}
